@@ -12,6 +12,8 @@
 	<dict>
 		<key>119ACF4FAB6CB31AC86D740E720D538477620120</key>
 		<string>github.com:rugbyprof/msu-swift.git</string>
+		<key>5D03555A462FF6C85E7A72521D948ECEF7266761</key>
+		<string>https://github.com/surekhakotiyala/5373-Swift-Programming-surekha.git</string>
 		<key>8A62EDC508DD03AF1C714C974D19950828CC3E36</key>
 		<string>github.com:rugbyprof/4443-Swift-Programming.git</string>
 	</dict>
@@ -21,15 +23,17 @@
 	<dict>
 		<key>119ACF4FAB6CB31AC86D740E720D538477620120</key>
 		<string>../../../../msu-swift</string>
-		<key>8A62EDC508DD03AF1C714C974D19950828CC3E36</key>
+		<key>5D03555A462FF6C85E7A72521D948ECEF7266761</key>
 		<string>../../..</string>
+		<key>8A62EDC508DD03AF1C714C974D19950828CC3E36</key>
+		<string>../../../../4443-Swift-Programming</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:rugbyprof/4443-Swift-Programming.git</string>
+	<string>https://github.com/surekhakotiyala/5373-Swift-Programming-surekha.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8A62EDC508DD03AF1C714C974D19950828CC3E36</string>
+	<string>5D03555A462FF6C85E7A72521D948ECEF7266761</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,6 +43,14 @@
 			<string>8A62EDC508DD03AF1C714C974D19950828CC3E36</string>
 			<key>IDESourceControlWCCName</key>
 			<string>4443-Swift-Programming</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D03555A462FF6C85E7A72521D948ECEF7266761</string>
+			<key>IDESourceControlWCCName</key>
+			<string>5373-Swift-Programming-surekha</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
